@@ -1,0 +1,44 @@
+src/main/java/labcodeinspection/Email.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/labcodeinspection/Email.java:22:	FieldNamingConventions: The field name 'm_firstName' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/labcodeinspection/Email.java:22:	FieldNamingConventions: The field name 'm_firstName' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/labcodeinspection/Email.java:22:	ImmutableField: Private field 'm_firstName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:22:	ImmutableField: Private field 'm_firstName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:57:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:57:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:65:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:65:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:65:	MethodArgumentCouldBeFinal: Parameter 'depChoice' is not assigned and could be declared final
+src/main/java/labcodeinspection/Email.java:65:	MethodArgumentCouldBeFinal: Parameter 'depChoice' is not assigned and could be declared final
+src/main/java/labcodeinspection/Email.java:66:	SwitchStmtsShouldHaveDefault: Switch statements should have a default label
+src/main/java/labcodeinspection/Email.java:66:	SwitchStmtsShouldHaveDefault: Switch statements should have a default label
+src/main/java/labcodeinspection/Email.java:81:	MethodArgumentCouldBeFinal: Parameter 'length' is not assigned and could be declared final
+src/main/java/labcodeinspection/Email.java:81:	MethodArgumentCouldBeFinal: Parameter 'length' is not assigned and could be declared final
+src/main/java/labcodeinspection/Email.java:82:	LocalVariableCouldBeFinal: Local variable 'set' could be declared final
+src/main/java/labcodeinspection/Email.java:82:	LocalVariableCouldBeFinal: Local variable 'set' could be declared final
+src/main/java/labcodeinspection/Email.java:85:	LocalVariableCouldBeFinal: Local variable 'rand' could be declared final
+src/main/java/labcodeinspection/Email.java:85:	LocalVariableCouldBeFinal: Local variable 'rand' could be declared final
+src/main/java/labcodeinspection/Email.java:94:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:94:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/Email.java:96:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/Email.java:96:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/Email.java:96:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/Email.java:96:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/labcodeinspection/EmailApp.java:5:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/labcodeinspection/EmailApp.java:5:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/labcodeinspection/EmailApp.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/EmailApp.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/labcodeinspection/EmailApp.java:18:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/labcodeinspection/EmailApp.java:18:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/labcodeinspection/EmailApp.java:19:	LocalVariableCouldBeFinal: Local variable 'sc' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:19:	LocalVariableCouldBeFinal: Local variable 'sc' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:19:	ShortVariable: Avoid variables with short names like sc
+src/main/java/labcodeinspection/EmailApp.java:19:	ShortVariable: Avoid variables with short names like sc
+src/main/java/labcodeinspection/EmailApp.java:22:	LocalVariableCouldBeFinal: Local variable 'firstName' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:22:	LocalVariableCouldBeFinal: Local variable 'firstName' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:25:	LocalVariableCouldBeFinal: Local variable 'lastName' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:25:	LocalVariableCouldBeFinal: Local variable 'lastName' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:29:	LocalVariableCouldBeFinal: Local variable 'depChoice' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:29:	LocalVariableCouldBeFinal: Local variable 'depChoice' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:32:	LocalVariableCouldBeFinal: Local variable 'email' could be declared final
+src/main/java/labcodeinspection/EmailApp.java:32:	LocalVariableCouldBeFinal: Local variable 'email' could be declared final
